@@ -1,6 +1,6 @@
 <h2>netflix_clone</h2>
 
-<h4>The Netflix Clone project is a responsive web interface designed using HTML5, CSS3, and basic level pseudo-elements to replicate Netflix's modern and sleek design. It features a visually engaging hero section with gradients and overlays. The project emphasizes responsive design, semantic HTML, and creative use of pseudo-elements to enhance aesthetics without extra markup.
+<h4>The Netflix Clone project is a responsive web interface designed to replicate Netflix's modern and sleek design.</h4>
 <h4>It showcases skills in modern front-end development and design principles.</h4>
 
 <h4>Technologies Used:</h4>
